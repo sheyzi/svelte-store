@@ -1,0 +1,25 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Headphones",
+			"price": 1000.0,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime velit obcaecati, quo nulla quas labore. Voluptatibus placeat, quae minus ipsam sed modi incidunt quisquam totam, saepe, enim corrupti eveniet dolorem.",
+			"image": "https://res.cloudinary.com/sheyzisilver/image/upload/v1632907417/headphones_category_8a7ed5cf90.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Laptop",
+			"price": 2000.0,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime velit obcaecati, quo nulla quas labore. Voluptatibus placeat, quae minus ipsam sed modi incidunt quisquam totam, saepe, enim corrupti eveniet dolorem.",
+			"image": "https://res.cloudinary.com/sheyzisilver/image/upload/v1632907323/laptops_category_787db43e9e.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Phone",
+			"price": 1000.0,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime velit obcaecati, quo nulla quas labore. Voluptatibus placeat, quae minus ipsam sed modi incidunt quisquam totam, saepe, enim corrupti eveniet dolorem.",
+			"image": "https://res.cloudinary.com/sheyzisilver/image/upload/v1632907182/spark_7_118d9b15c1.jpg"
+		}
+	]
+}
